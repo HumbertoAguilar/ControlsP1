@@ -2,9 +2,9 @@
 function setup(){
 
     homen=createButton('🏠︎')
-    homen.position(1220,20);
+    homen.position(1120,20);
     reset=createButton('⇦')
-    reset.position(195,20);
+    reset.position(300,20);
 
 
 }
